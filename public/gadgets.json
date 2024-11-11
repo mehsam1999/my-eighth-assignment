@@ -1,0 +1,257 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/LnPpXGd/i-Phone-15-Plus-2-6-5363.jpg",
+        "category": "iPhone",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/jbVLk9N/Galaxy-S23-Ultra-Green-3380.jpg",
+        "category": "Phones",
+        "price": 1199,
+        "description": "The Galaxy S23 Ultra combines high performance with exceptional camera quality.",
+        "specification": [
+            "6.8-inch Dynamic AMOLED 2X display",
+            "Snapdragon 8 Gen 2",
+            "Quad-camera system (200MP Main, 10MP Telephoto, 12MP Ultrawide)",
+            "S Pen included",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "MacBook Pro 14-inch M2",
+        "product_image": "https://i.ibb.co.com/8mbFYy5/Watermarkcopy-04d6cff5-e035-4d77-a1bb-59bc329d8c71-grande.png",
+        "category": "MacBook",
+        "price": 1999,
+        "description": "Powerful performance with the M2 Pro chip in a compact 14-inch MacBook.",
+        "specification": [
+            "14-inch Liquid Retina XDR display",
+            "M2 Pro chip",
+            "Up to 64GB RAM",
+            "Up to 8TB storage",
+            "MagSafe charging"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P004",
+        "product_title": "Dell XPS 13 Plus",
+        "product_image": "https://i.ibb.co.com/R05h8mf/Dell-XPS-13-Plus-1.jpg",
+        "category": "Laptops",
+        "price": 1499,
+        "description": "A cutting-edge laptop with high performance and a sleek design.",
+        "specification": [
+            "13.4-inch OLED display",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "1TB SSD",
+            "Edge-to-edge keyboard"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Sony WH-1000XM5 Headphones",
+        "product_image": "https://i.ibb.co.com/jkGKrMx/Sony-WH-1000-XM5-Headphones-Blue-600x600.jpg",
+        "category": "Accessories",
+        "price": 399,
+        "description": "Industry-leading noise-canceling headphones for immersive sound.",
+        "specification": [
+            "40mm driver unit",
+            "Noise-canceling technology",
+            "30 hours battery life",
+            "Wireless Bluetooth connection",
+            "Touch sensor controls"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Acer Predator Helios 300",
+        "product_image": "https://i.ibb.co.com/qCZsg0H/predator-helios-300-ph315-04-550x550.jpg",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "High-performance gaming laptop with powerful graphics and advanced cooling.",
+        "specification": [
+            "15.6-inch Full HD display with 144Hz refresh rate",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "512GB SSD",
+            "NVIDIA GeForce RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/HgHHzSr/Mac-Book-Air-M2-Starlight-2636.jpg",
+        "category": "MacBook",
+        "price": 1199,
+        "description": "Lightweight, powerful, and efficient with the new M2 chip.",
+        "specification": [
+            "13.6-inch Liquid Retina display",
+            "M2 chip",
+            "Up to 24GB RAM",
+            "Up to 2TB storage",
+            "MagSafe charging"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/wyHGQ76/Pixel-7-Pro-Snow-custom-mac-bd.jpg",
+        "category": "Phones",
+        "price": 899,
+        "description": "Pixel’s AI-driven technology and cutting-edge camera system.",
+        "specification": [
+            "6.7-inch OLED display",
+            "Google Tensor G2",
+            "Triple-camera system",
+            "Titan M2 security chip",
+            "Up to 512GB storage"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Microsoft Surface Laptop 5",
+        "product_image": "https://i.ibb.co.com/fQt2zwj/Surface-Laptop-5-2.jpg",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "A versatile laptop with enhanced performance and portability.",
+        "specification": [
+            "13.5-inch PixelSense display",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "512GB SSD",
+            "All-day battery life"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Samsung Galaxy Buds Pro 2",
+        "product_image": "https://i.ibb.co.com/7RJDVGV/Galaxy-Buds-2-Pro-4-800x800.jpg",
+        "category": "Accessories",
+        "price": 199,
+        "description": "Premium sound with noise cancellation in compact earbuds.",
+        "specification": [
+            "Active noise cancellation",
+            "Up to 5 hours battery",
+            "Wireless charging",
+            "IPX7 water resistance",
+            "Touch controls"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Asus ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/7bPfxMR/Asus-Rog-Zephyrus-G14-GA402-RK-Price-in-BD-2022-model-MC-Solution-BD-scaled-1200x900.webp",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "Compact yet powerful gaming laptop with immersive graphics.",
+        "specification": [
+            "14-inch QHD display",
+            "AMD Ryzen 9",
+            "16GB RAM",
+            "1TB SSD",
+            "GeForce RTX 3060 GPU"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P012",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/r5FfGp8/hp-spectre-x360-convertible-14-e2027tu-laptop-2.jpg",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "A 2-in-1 laptop with powerful performance and beautiful design.",
+        "specification": [
+            "13.5-inch OLED display",
+            "Intel Core i7 11th Gen",
+            "16GB RAM",
+            "1TB SSD",
+            "Convertible 360 design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Apple AirPods Pro (2nd Gen)",
+        "product_image": "https://i.ibb.co.com/YNxPd40/MTJV3.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Next-generation AirPods with improved sound and noise cancellation.",
+        "specification": [
+            "Active noise cancellation",
+            "Up to 6 hours battery",
+            "Spatial audio",
+            "Sweat and water resistant",
+            "Customizable fit"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Apple iPad Pro 12.9-inch",
+        "product_image": "https://i.ibb.co.com/WnDXJY0/i-Pad-Pro12-9-Pro-M2i-Stock-BD.png",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "The ultimate iPad with powerful M2 chip and stunning display.",
+        "specification": [
+            "12.9-inch Liquid Retina XDR display",
+            "M2 chip",
+            "5G capable",
+            "Up to 2TB storage",
+            "Apple Pencil (2nd Gen) support"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+    "product_id": "P015",
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+    "product_image": "https://i.ibb.co.com/xYFvdvk/media-library-NPXT6-Q-lg.jpg",
+    "category": "Laptops",
+    "price": 1749,
+    "description": "An ultralight laptop with premium features and enterprise-grade security.",
+    "specification": [
+        "14-inch WUXGA display",
+        "Intel Core i7 12th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "Fingerprint reader"
+    ],
+    "availability": true,
+    "rating": 4.7
+    }
+]

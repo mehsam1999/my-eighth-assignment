@@ -1,0 +1,30 @@
+[
+    {
+        "1d": 1,
+        "category": "All Products"
+    },
+    {
+        "1d": 2,
+        "category": "Laptops"
+    },
+    {
+        "1d": 3,
+        "category": "Phones"
+    },
+    {
+        "1d": 4,
+        "category": "Accessories"
+    },
+    {
+        "1d": 5,
+        "category": "Smart Watches"
+    },
+    {
+        "1d": 6,
+        "category": "MacBook"
+    },
+    {
+        "1d": 7,
+        "category": "iPhone"
+    }
+]
